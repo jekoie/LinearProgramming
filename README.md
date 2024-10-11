@@ -1,6 +1,6 @@
 ## 线性规划(龙强)
 ----
-- B站视频地址: **[https://www.bilibili.com/video/BV1R5tQeaE1v/?p=1]([1])**
+- B站视频地址: **[https://www.bilibili.com/video/BV1R5tQeaE1v/?p=1][addr]**
 
 - 说在前面的话
 ![][1]
